@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Naši Vinkovci</string>
+    <string name="hello_world">Switch fragments</string>
+    <string name="submit">Submit</string>
+    <string name="naslov1">Naslovna</string>
+    <string name="povijest">Povijest</string>
+    <string name="prijedlog">Postavi prijedlog</string>
+    <string name="opis">Grad Vinkovci nalazi se na krajnjem sjeveroistoku Hrvatske, između Dunava i Save, smješten na rijeci Bosut 20km udaljen od grada Vukovara ,
+        sjedišta Vukovarsko-srijemske županije.
+        U Vinkovcima danas živi 35.312 stanovnika. Hrvati čine većinu sa 93,3% (32.609), 4,9% (1.718) čine Srbi, 0,4% (164) Mađari i ostali.</string>
+    <string name="vinkovcani">Poznati Vinkovčani :</string>
+
+
+    <string name="prapovijest">Prapovijest :</string>
+    <string name="prapovijestopis">Arheološka istraživanja na području Vinkovaca pokazala su postojanje starije faze starčevačke kulture neolitika, prije 7000 godina.
+    U starijem željeznom dobu područje grada naselili su Iliri, a u mlađem Kelti koji su se ubrzo stopili s Ilirima.</string>
+    <string name="antika">Antika :</string>
+    <string name="antikaopis1"> Iznad slojeva starčevačke, sopotske, vučedolske, vinkovačke, kompleksa brončanodobnih i željeznodobnih kultura, smjestilo se i rimsko naselje.
+        Prethodnica su bila naselja u kojima su živjeli Skordisci,  poznato kao
+         </string>
+
+    <string name="antikaopis2"> Dirov Brijeg jugozapadno od Cibala i naselje na Ervenici koje se uklopilo u raster Cibala.Cibale su se smjestile na pravcu dva glavna puta, Aquileia - Poetovio – Mursa – Cibalae – Sirmium – Singidunum i Siscia – Sirmium u provinciji Pannonia Secunda.
+    Na ovom mjestu treba istaknuti i dvije osobe koje možemo poimence nabrojiti, a od iznimne su važnosti. Radi se o dva cara, Valentinijan I.(364.-375.) i Valens (364.-378.),
+        obojici rođenim u Cibalama, čiji je otac Gracijan također bio iz Cibala</string>
+    <string name="srednjivinek">Srednji Vijek :</string>
+    <string name="srednjivijekopis1">U ranom srednjem vijeku Vinkovci se spominju pod imenom Sveti Ilija. Naselje (u mađarskim spomenicima Zenthelye, Zenthylye, Zenthylya i sl.) uz rub ruševina antičkih Cibala dokazano postoji od XI.
+        Stoljeća, o  </string>
+    <string name="srednjivijekopis2">tome  svjedoče arazni arheološkki ostaci ranoromaničke crkve sv. Ilija na Meraji.Naselje Sveti Ilija vjerojatno je stradalo prilikom Tatara 1242. godine.</string>
+    <string name="turska">Turska i vojna krajna :</string>
+    <string name="turskaopis">Turci Vinkovce osvajaju godine 1533. i u gradu se zadržavaju sve do godine 1691, no osim ruševina i pokojeg turcizma u govoru stanovništva, ne ostavljaju velikog traga.
+        Iako se grad oslobodio od Turaka, ipak je još strepio nd mogućih napadaja turske vojske, te je osnovana Vojna krajina u koju su uvršteni i Vinkovci. U gradu je smješten stožer regimente, te se Vinkovci razvijaju u važno vojno i kulturno središte.</string>
+    <string name="dvadesetostoljece">20. stoljeće :</string>
+    <string name="dvadesetoopis">Vinkovci su 1900.g imali oko 8.500 stanovnika.1918. godine Hrvatska ulazi u Kraljevstvo Srba, Hrvata i Slovenaca te su Vinkovci ,nakon ukidanja žubanija,1929. svrstani najprije u Dravsku Banovino no od 1931. pripadaju Savskoj Banovini.
+        Prvu polovicu 1990-ih obilježio je Domovinski rat , odnosno oružani sukob Republike Hrvatske s Jugoslavenskom narodnom armijom (1991.-1992.) i snagama pobunjeničke srpske paradržave (1992.-1995.).
+        Tijekom lipnja 1991., u selima istočne Slavonije Bobota, Vera, Negoslavci) uspostavljene su terorističke baze srpskih ekstremista za napade na Osijek, Vinkovce i Vukovar te okolna sela. Vinkovci su osobito napadani iz Mirkovaca, Markušice, Pačetina i Karadžićeva.
+        U samom pak napadu na neprijateljske položaje na Mirkovce, iz kojih su neprestano granatirani Vinkovci, hrvatske su postrojbe pretrpjele velike gubitke, a ključnu pomoć srpskim teroristima pružila je JNA.
+   </string>
+
+
+    <string name="imeiprezime">Unesite svoje ime i prezime</string>
+    <string name="oib">Unesite svoj OIB</string>
+    <string name="edprijedlog">Ovdje unesite svoj prijedlog</string>
+    <string name="posalji">Pošalji</string>
+    <string name="pogledajprijedloge">Pogledaj prijedloge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

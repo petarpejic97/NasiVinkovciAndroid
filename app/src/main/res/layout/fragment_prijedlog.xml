@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Prijedlog">
+
+
+    <ImageView
+        android:id="@+id/pozadina"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="180dp"
+        android:layout_width="250dp"
+        android:layout_height="270dp"
+        android:background="@drawable/pozadina"
+
+        android:alpha="0.6"
+        />
+    <EditText
+        android:id="@+id/imeprezime"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/imeiprezime"
+        android:inputType="textCapSentences"
+        android:layout_marginTop="3dp"
+        />
+    <EditText
+        android:id="@+id/oib"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/oib"
+        android:maxLength="13"
+        android:inputType="number"
+        android:layout_below="@+id/imeprezime"
+        />
+    <EditText
+        android:id="@+id/prijedlog"
+        android:layout_width="330dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/edprijedlog"
+        android:inputType="textCapSentences"
+        android:layout_below="@+id/oib"
+        />
+    <Button
+        android:id="@+id/posalji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/posalji"
+        android:layout_below="@+id/prijedlog"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="15dp"
+        />
+    <Button
+        android:id="@+id/pogledajprijedloge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pogledajprijedloge"
+        android:layout_alignParentBottom="true"
+
+        />
+</RelativeLayout>
